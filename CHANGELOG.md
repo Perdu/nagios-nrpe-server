@@ -1,7 +1,7 @@
 # Change Log
 
-## [v3.2.1](https://github.com/jloh/nagios-nrpe-server/tree/v3.1.1) (2026-02-12)
-[Full Changelog](https://github.com/jloh/nagios-nrpe-server/compare/v3.1.0...v3.2.0)
+## [v3.2.0](https://github.com/Perdu/nagios-nrpe-server/tree/v3.2.0) (2026-02-12)
+[Full Changelog](https://github.com/Perdu/nagios-nrpe-server/compare/v3.2.0...v3.1.0)
 
 **Deprecation fixes**
 
