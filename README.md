@@ -1,7 +1,7 @@
 Nagios NRPE Server Config
 =========
 
-[![GitHub version](https://badge.fury.io/gh/jloh%2Fnagios-nrpe-server.svg)](http://badge.fury.io/gh/jloh%2Fnagios-nrpe-server) [![CircleCI](https://circleci.com/gh/jloh/nagios-nrpe-server.svg?style=svg)](https://circleci.com/gh/jloh/nagios-nrpe-server)
+[![GitHub version](https://badge.fury.io/gh/perdu%2Fnagios-nrpe-server.svg)](http://badge.fury.io/gh/perdu%2Fnagios-nrpe-server) [![CircleCI](https://circleci.com/gh/perdu/nagios-nrpe-server.svg?style=svg)](https://circleci.com/gh/perdu/nagios-nrpe-server)
 
 An Ansible role to handle the installation and rollout of the Nagios NRPE Daemon.
 
@@ -90,7 +90,7 @@ Example Playbook
 ```yaml
 - hosts: servers
   roles:
-     - jloh.nagios_nrpe_server
+     - perdu.nagios_nrpe_server
    vars:
      nagios_nrpe_server_allowed_hosts:
        - 192.168.0.1
@@ -112,4 +112,4 @@ MIT
 Author Information
 ------------------
 
-Checkout my blog [here](http://blog.jloh.co).
+Checkout original author's blog [here](http://blog.jloh.co).
