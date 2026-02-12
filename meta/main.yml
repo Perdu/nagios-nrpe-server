@@ -17,8 +17,10 @@ galaxy_info:
         - trusty
     - name: Debian
       versions:
-        - squeeze
-        - wheezy
+        - buster
+        - bullseye
+        - bookworm
+        - trixie
     - name: ArchLinux
       versions:
         - all
