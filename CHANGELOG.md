@@ -1,5 +1,11 @@
 # Change Log
 
+## [v3.2.1](https://github.com/Perdu/nagios-nrpe-server/tree/v3.2.1) (2026-02-12)
+[Full Changelog](https://github.com/Perdu/nagios-nrpe-server/compare/v3.2.1...v3.2.0)
+
+**Fixed bugs:**
+- Don't crash when no plugin exists for a server
+
 ## [v3.2.0](https://github.com/Perdu/nagios-nrpe-server/tree/v3.2.0) (2026-02-12)
 [Full Changelog](https://github.com/Perdu/nagios-nrpe-server/compare/v3.2.0...v3.1.0)
 
