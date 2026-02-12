@@ -1,5 +1,13 @@
 # Change Log
 
+## [v3.2.1](https://github.com/jloh/nagios-nrpe-server/tree/v3.1.1) (2026-02-12)
+[Full Changelog](https://github.com/jloh/nagios-nrpe-server/compare/v3.1.0...v3.2.0)
+
+**Deprecation fixes**
+
+- Fix deprecation warnings for ansible-core 2.24
+- Fix deprecated module include
+
 ## [v3.1.0](https://github.com/jloh/nagios-nrpe-server/tree/v3.1.0) (2019-04-08)
 [Full Changelog](https://github.com/jloh/nagios-nrpe-server/compare/v3.0.1...v3.1.0)
 
