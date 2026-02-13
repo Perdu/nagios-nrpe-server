@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: James Loh, fixes by Célestin Matte
-  description: Nagios NRPE Server configuration Ansible Role
+  description: Nagios NRPE Server configuration Ansible Role (fork of jloh's version, fixing recent errors)
   license: license (MIT)
   min_ansible_version: 1.2
   platforms:
